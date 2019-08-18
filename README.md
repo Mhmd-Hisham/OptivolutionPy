@@ -1,5 +1,5 @@
 # OptivolutionPy
-A flexible genetic algorithm library written in Python3.
+A flexible genetic algorithm library written purly in Python3.
 
 ## Installation
 
