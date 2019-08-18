@@ -1,4 +1,4 @@
-# Simple-GA
+# OptivolutionPy
 A flexible genetic algorithm framework written in Python3.
 
 ## Installation
@@ -24,8 +24,8 @@ $ python3 setup.py install
 
 import random
 
-from simple-ga.Population import Population
-from simple-ga.Chromosome import Chromosome
+from optivolution.population import Population
+from optivolution.chromosome import Chromosome
 
 class OneDimensinalKnapsack(Chromosome):
     """ Inidividual knapsack object. """
@@ -94,8 +94,8 @@ Output:
 
 import random
 
-from simple-ga.Population import Population
-from simple-ga.Chromosome import Chromosome
+from optivolution.Population import Population
+from optivolution.Chromosome import Chromosome
 
 class MultiDimensinalKnapsack(Chromosome):
     """ Inidividual knapsack object. """
