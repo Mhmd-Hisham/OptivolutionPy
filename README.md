@@ -5,14 +5,14 @@ A flexible genetic algorithm framework written in Python3.
 
 For python3, simply run:
 ```sh
-$ pip3 install simple-ga
+$ pip3 install OptivolutionPy
 
 ```
 
 Or clone this repository and run python3 setup.py install from within the project directory. e.g.:
 ```sh
-$ git clone https://github.com/Mhmd-Hisham/Simple-GA.git
-$ cd simple-ga
+$ git clone https://github.com/Mhmd-Hisham/OptivolutionPy.git
+$ cd OptivolutionPy
 $ python3 setup.py install
 ```
 
@@ -162,10 +162,10 @@ Output: (might vary since we are using a GA)
 ```
 
 ## Advanced Example
-#### Smart Ants using Simple-GA & Processing3. check this [repo](https://github.com/Mhmd-Hisham/SmartAntsGA) for more details.
+#### Smart Ants using OptivolutionPy & Processing3. check this [repo](https://github.com/Mhmd-Hisham/SmartAntsGA) for more details.
 
 
-[![SmartAnts](http://img.youtube.com/vi/f1ZrNOkd1Zw/0.jpg)](http://www.youtube.com/watch?v=f1ZrNOkd1Zw "Smart Ants Using Simple-GA in Processing3")
+[![SmartAnts](http://img.youtube.com/vi/f1ZrNOkd1Zw/0.jpg)](http://www.youtube.com/watch?v=f1ZrNOkd1Zw "Smart Ants Using OptivolutionPy in Processing3")
 
 
 ## License
