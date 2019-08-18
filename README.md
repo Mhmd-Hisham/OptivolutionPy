@@ -27,10 +27,6 @@ $ python3 setup.py install
 
 ```python3
 #!/usr/bin/env python3
-"""
-    OptivolutionPy example project.
-    Solving the One-dimensional knapsack problem.
-"""
 
 import random
 
@@ -89,7 +85,8 @@ def main():
     print((best.fitness, best.genes))
 
 if __name__ == "__main__":
-    main()```
+    main()
+```
 
 Output:
 ```
