@@ -19,7 +19,7 @@ $ python3 setup.py install
 ## Advanced Example
 #### Smart Ants using OptivolutionPy & Processing3. check this [repo](https://github.com/Mhmd-Hisham/SmartAntsGA) for more details.
 
-![Example](https://github.com/Mhmd-Hisham/SmartAntsGA/blob/master/SmartAnts.gif)
+![SmartAntsExample](https://github.com/Mhmd-Hisham/SmartAntsGA/blob/master/SmartAnts.gif)
 
 
 ## Simple example
@@ -27,6 +27,10 @@ $ python3 setup.py install
 
 ```python3
 #!/usr/bin/env python3
+"""
+    OptivolutionPy example project.
+    Solving the One-dimensional knapsack problem.
+"""
 
 import random
 
@@ -80,13 +84,12 @@ def main():
     print(f"Generation {population.generation_number}")
     best = population.get_best_individual()
 
-    # The optimal answer for test case is
+    # The optimal answer for this test case is
     # (15, [0, 1, 1, 1, 1])
     print((best.fitness, best.genes))
 
 if __name__ == "__main__":
-    main()
-```
+    main()```
 
 Output:
 ```
