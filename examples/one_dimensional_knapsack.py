@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
     OptivolutionPy example project.
-    Solving the One dimensional knapsack problem.
+    Solving the One-dimensional knapsack problem.
 """
 
 import random
@@ -58,7 +58,7 @@ def main():
     
     best = population.get_best_individual()
 
-    # The optimal answer for test case is
+    # The optimal answer for this test case is
     # (15, [0, 1, 1, 1, 1])
     print((best.fitness, best.genes))
 
