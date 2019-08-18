@@ -16,7 +16,14 @@ $ cd OptivolutionPy
 $ python3 setup.py install
 ```
 
-## Examples
+## Advanced Example
+#### Smart Ants using OptivolutionPy & Processing3. check this [repo](https://github.com/Mhmd-Hisham/SmartAntsGA) for more details.
+
+
+[![SmartAnts](http://img.youtube.com/vi/f1ZrNOkd1Zw/0.jpg)](http://www.youtube.com/watch?v=f1ZrNOkd1Zw "Smart Ants Using OptivolutionPy in Processing3")
+
+
+## Simple example
 ### Solving the one-dimensional [knapsack problem](http://en.wikipedia.org/wiki/Knapsack_problem):
 
 ```python3
@@ -86,13 +93,6 @@ Output:
 ```
 (15, [0, 1, 1, 1, 1])
 ```
-
-## Advanced Example
-#### Smart Ants using OptivolutionPy & Processing3. check this [repo](https://github.com/Mhmd-Hisham/SmartAntsGA) for more details.
-
-
-[![SmartAnts](http://img.youtube.com/vi/f1ZrNOkd1Zw/0.jpg)](http://www.youtube.com/watch?v=f1ZrNOkd1Zw "Smart Ants Using OptivolutionPy in Processing3")
-
 
 ## License
 
