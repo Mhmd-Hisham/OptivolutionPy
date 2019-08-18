@@ -11,12 +11,12 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name="simple-ga",
+    name="OptivolutionPy",
     version="1.0.0",
-    description="A flexible genetic algorithm framework written in Python3.",
+    description="A flexible genetic algorithm library written in Python3.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Mhmd-Hisham/Simple-GA",
+    url="https://github.com/Mhmd-Hisham/OptivolutionPy",
     author="Mohamed Hisham",
     author_email="Mohamed00Hisham@Gmail.com",
     license="GPL-3.0",
@@ -30,5 +30,5 @@ setup(
         "Programming Language :: Python :: 3",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
-    packages=["simple-ga"]
+    packages=["optivolution"]
 )
