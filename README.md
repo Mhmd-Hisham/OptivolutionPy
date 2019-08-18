@@ -93,6 +93,9 @@ Output:
 (15, [0, 1, 1, 1, 1])
 ```
 
-## License
+## Meta
+
+Mohamed Hisham – [G-Mail](Mohamed00Hisham@Gmail.com) | [GitHub](https://github.com/Mhmd-Hisham) | [LinkedIn](https://www.linkedin.com/in/Mhmd-Hisham/)
+
 
 This project is licensed under the GNU GPLv3 License - check [LICENSE](LICENSE) for more details.
