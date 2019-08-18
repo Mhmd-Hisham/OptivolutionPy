@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-    Example project.
-    One dimensional knapsack.
+    OptivolutionPy example project.
+    Solving the One dimensional knapsack problem.
 """
 
 import random
 
-from GA.Population import Population
-from GA.Chromosome import Chromosome
+from optivolution.population import Population
+from optivolution.chromosome import Chromosome
 
 class OneDimensinalKnapsack(Chromosome):
     """ Inidividual knapsack object. """
