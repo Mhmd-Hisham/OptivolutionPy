@@ -17,7 +17,7 @@ $ python3 setup.py install
 ```
 
 ## Examples
-#### Solving the one-dimensional [knapsack problem](http://en.wikipedia.org/wiki/Knapsack_problem):
+### Solving the one-dimensional [knapsack problem](http://en.wikipedia.org/wiki/Knapsack_problem):
 
 ```python3
 #!/usr/bin/env python3
@@ -68,12 +68,10 @@ class KnapscakPopulation(Population):
         return OneDimensinalKnapsack()
 
 def main():
-    population = KnapscakPopulation(population_size=20)
-    
+    population = KnapscakPopulation(population_size=20)    
     population.run(20)
     
     print(f"Generation {population.generation_number}")
-    
     best = population.get_best_individual()
 
     # The optimal answer for test case is
@@ -89,7 +87,7 @@ Output:
 (15, [0, 1, 1, 1, 1])
 ```
 
-#### Solving the multi-dimensional [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem#Multi-dimensional_knapsack_problem):
+### Solving the multi-dimensional [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem#Multi-dimensional_knapsack_problem):
 
 ```python3
 #!/usr/bin/env python3
@@ -143,8 +141,7 @@ class KnapscakPopulation(Population):
         return MultiDimensinalKnapsack()
 
 def main():
-    population = KnapscakPopulation(population_size=200)
-    
+    population = KnapscakPopulation(population_size=200)    
     population.run(100)
     
     print(f"Generation {population.generation_number}")
@@ -159,10 +156,15 @@ if __name__ == "__main__":
     main()
 ```
 
-Output:
+Output: (might vary since we are using a GA)
 ```
 (3531, [0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1])
 ```
 
 ## Advanced Example
 [![SmartAnts](http://img.youtube.com/vi/f1ZrNOkd1Zw/0.jpg)](http://www.youtube.com/watch?v=f1ZrNOkd1Zw "Smart Ants Using Simple-GA in Processing3")
+
+
+## License
+
+This project is licensed under the GNU GPLv3 License - check [LICENSE](LICENSE) for more details.
