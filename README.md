@@ -19,7 +19,9 @@ $ python3 setup.py install
 ## Advanced Example
 #### Smart Ants using OptivolutionPy & Processing3. check this [repo](https://github.com/Mhmd-Hisham/SmartAntsGA) for more details.
 
+![Example](SmartAntsExample.gif)
 
+OLD:
 [![SmartAnts](http://img.youtube.com/vi/f1ZrNOkd1Zw/0.jpg)](http://www.youtube.com/watch?v=f1ZrNOkd1Zw "Smart Ants Using OptivolutionPy in Processing3")
 
 
