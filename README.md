@@ -20,6 +20,10 @@ $ python3 setup.py install
 #### Smart Ants using OptivolutionPy & Processing3. check this [repo](https://github.com/Mhmd-Hisham/SmartAntsGA) for more details.
 
 ![SmartAntsExample](https://raw.githubusercontent.com/Mhmd-Hisham/SmartAntsGA/master/SmartAnts.gif)
+![Test1Example](https://raw.githubusercontent.com/Mhmd-Hisham/test/master/poetry.gif)
+![Test2Example](https://warehouse-camo.cmh1.psfhosted.org/1da65858f6b005e253d80acae773d0b0d6b75a74/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7364697370617465722f706f657472792f6d61737465722f6173736574732f696e7374616c6c2e676966)
+![test3Example](https://raw.githubusercontent.com/Mhmd-Hisham/test/master/SmartAnts.gif)
+
 
 
 ## Simple example
@@ -95,7 +99,7 @@ Output:
 
 ## Meta
 
-Mohamed Hisham – [G-Mail](Mohamed00Hisham@Gmail.com) | [GitHub](https://github.com/Mhmd-Hisham) | [LinkedIn](https://www.linkedin.com/in/Mhmd-Hisham/)
+Mohamed Hisham – [G-Mail](mailto:Mohamed00Hisham@Gmail.com) | [GitHub](https://github.com/Mhmd-Hisham) | [LinkedIn](https://www.linkedin.com/in/Mhmd-Hisham/)
 
 
 This project is licensed under the GNU GPLv3 License - check [LICENSE](https://github.com/Mhmd-Hisham/OptivolutionPy/blob/master/LICENSE) for more details.
