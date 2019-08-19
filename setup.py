@@ -1,18 +1,21 @@
-#!/usr/bin/env python3
-""" setup.py """
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+""" setup instructions for OptivolutionPy """
 
-import pathlib
+import codecs
+import os
+import sys
+
 from setuptools import setup
 
-# The directory containing the readme file
-HERE = pathlib.Path(__file__).parent
+here = os.path.abspath(os.path.dirname(__file__))
 
-# The text of the README file
-README = (HERE / "README.md").read_text()
+with codecs.open(os.path.join(here, 'README.md'), encoding='utf-8') as fh:
+    README = '\n' + fh.read()
 
 setup(
     name="OptivolutionPy",
-    version="1.0.0",
+    version="1.0.1",
     description="A flexible genetic algorithm library written in Python3.",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -26,10 +29,14 @@ setup(
         "Intended Audience :: Science/Research",
         "Natural Language :: English",
         "Operating System :: OS Independent",
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python',
+        "Programming Language :: Python :: 2.7",
+        "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7",
         "Topic :: Software Development :: Libraries",
         "Topic :: Software Development :: Libraries :: Python Modules",
-        "Programming Language :: Python :: 2",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
     packages=["optivolution"]
