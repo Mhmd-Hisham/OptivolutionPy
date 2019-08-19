@@ -15,7 +15,7 @@ with codecs.open(os.path.join(here, 'README.md'), encoding='utf-8') as fh:
 
 setup(
     name="OptivolutionPy",
-    version="1.0.7",
+    version="1.0.1",
     description="A flexible genetic algorithm library written in Python3.",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -30,7 +30,9 @@ setup(
         "Natural Language :: English",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
+        "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 2.7",
+        "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.4",
         "Programming Language :: Python :: 3.5",
         "Programming Language :: Python :: 3.6",
