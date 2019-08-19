@@ -27,8 +27,9 @@ setup(
         "Natural Language :: English",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
-        'Topic :: Software Development :: Libraries',
-        'Topic :: Software Development :: Libraries :: Python Modules',        "Programming Language :: Python :: 2",
+        "Topic :: Software Development :: Libraries",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Programming Language :: Python :: 2",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
     packages=["optivolution"]
