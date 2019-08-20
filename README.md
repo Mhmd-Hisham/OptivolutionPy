@@ -3,7 +3,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/OptivolutionPy)
 ![PyPI version](https://img.shields.io/pypi/v/OptivolutionPy)
 ![PyPI - Format](https://img.shields.io/pypi/format/OptivolutionPy)
-![PyPI downloads](https://img.shields.io/pypi/dd/OptivolutionPy)
+![PyPI downloads](https://img.shields.io/pypi/dm/OptivolutionPy)
 ![PyPI - License](https://img.shields.io/pypi/l/OptivolutionPy)
 
 A flexible genetic algorithm library written purly in Python3.
