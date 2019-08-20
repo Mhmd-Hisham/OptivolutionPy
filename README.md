@@ -1,10 +1,10 @@
 # OptivolutionPy
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/OptivolutionPy)
-![PyPI version](https://img.shields.io/pypi/v/OptivolutionPy)
-![PyPI - Format](https://img.shields.io/pypi/format/OptivolutionPy)
-![PyPI downloads](https://img.shields.io/pypi/dm/OptivolutionPy)
-![PyPI - License](https://img.shields.io/pypi/l/OptivolutionPy)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/OptivolutionPy)](https://pypi.org/project/OptivolutionPy/)
+[![PyPI version](https://img.shields.io/pypi/v/OptivolutionPy)](https://pypi.org/project/OptivolutionPy/)
+[![PyPI - Format](https://img.shields.io/pypi/format/OptivolutionPy)](https://pypi.org/project/OptivolutionPy/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/OptivolutionPy)](https://pypi.org/project/OptivolutionPy/)
+[![PyPI - License](https://img.shields.io/pypi/l/OptivolutionPy)](https://pypi.org/project/OptivolutionPy/)
 
 A flexible genetic algorithm library written purly in Python3.
 
