@@ -8,7 +8,7 @@
 
 [Homepage](https://github.com/Mhmd-Hisham/OptivolutionPy) | [PyPI](https://pypi.org/project/OptivolutionPy)
 
-A flexible genetic algorithm library written purly in Python3.
+A flexible genetic algorithm library written purely in Python3.
 
 ## Installation
 
