@@ -10,6 +10,8 @@
 
 A flexible genetic algorithm library written purely in Python3.
 
+Check out this [repo](https://github.com/AdhamGhoname/OptivolutionJ) for an implementation in Java.
+
 ## Installation
 
 For python3, simply run:
